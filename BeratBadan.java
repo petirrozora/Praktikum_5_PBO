@@ -37,4 +37,3 @@ public class BeratBadan {
         System.out.println("Kriteria Berat Badan Anda: " + kriteria);
     }
 }
-

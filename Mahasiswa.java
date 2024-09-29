@@ -56,5 +56,3 @@ public class Mahasiswa {
         System.out.println("Keterangan: " + keterangan);
     }
 }
-
-

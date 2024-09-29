@@ -28,4 +28,3 @@ public class Diskon {
         System.out.println("Jumlah yang harus dibayarkan Rp: " + totalBayar);
     }
 }
-
